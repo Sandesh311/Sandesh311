@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Bachelor's in Electrical Engineering from Pokhara University  
-- ⚙️ 1.5+ years experience in **Transmission & Distribution** (33kV, 11kV, 220kV systems)  
+- ⚙️ 2+ years experience in **Transmission & Distribution** (33kV, 11kV, 220kV systems)  
 - 🔋 Focused on **Power System Engineering** — especially planning, design & operation  
 - 📚 Aiming for Master's/PhD in Power Systems  
 - 📍 Currently based in Nepal 🇳🇵
@@ -46,7 +46,7 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: sandeshregmi95@email.com 
+- 📧 Email: sandeshregmi95@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/sandeshregmi](https://linkedin.com/in/sandeshregmi) *(replace if needed)*
   
 
