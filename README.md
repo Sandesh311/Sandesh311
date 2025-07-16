@@ -40,15 +40,15 @@
 
 - 🧠 Deepen knowledge in **power system optimization**, **reliability analysis**, and **smart grids**
 - 🧪 Explore research opportunities and publish papers
-- 🇦🇺 Apply to graduate research programs in Australia with scholarships
+- 🇦🇺 Apply to graduate research programs in USA with scholarships
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 Email: sandeshregmi@email.com *(replace with actual)*
+- 📧 Email: sandeshregmi95@email.com 
 - 💼 LinkedIn: [linkedin.com/in/sandeshregmi](https://linkedin.com/in/sandeshregmi) *(replace if needed)*
-- 🌐 Portfolio/Blog (if any): [your-website.com](#)
+  
 
 ---
 
